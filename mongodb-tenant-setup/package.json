@@ -11,7 +11,7 @@
     "verify-all": "npm run test-connection && npm run test-network"
   },
   "dependencies": {
-    "mongodb": "^6.0.0"
+    "mongodb": "^6.21.0"
   },
   "engines": {
     "node": ">=16.0.0"
