@@ -1,5 +1,5 @@
 # Development Dockerfile with hot-reloading
-FROM node:24.7.0-alpine
+FROM node:24.13.0-alpine
 
 # Install development dependencies (DNS is now fixed in Docker daemon)
 RUN apk update && apk add --no-cache \
