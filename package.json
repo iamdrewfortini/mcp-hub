@@ -43,7 +43,7 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.15.1",
+    "@modelcontextprotocol/sdk": "^1.25.2",
     "bullmq": "^5.58.5",
     "chokidar": "^4.0.3",
     "commander": "^14.0.0",
