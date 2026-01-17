@@ -1,5 +1,5 @@
 # Minimal production Dockerfile using pre-built assets
-FROM node:24.7.0-alpine
+FROM node:24.13.0-alpine
 
 # Create non-root user for security
 RUN addgroup -g 1001 -S nodejs && \
